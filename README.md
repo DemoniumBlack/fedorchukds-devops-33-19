@@ -53,12 +53,14 @@
 
 7. Повторил все шаги для роли `lighthouse-role`.
 
-8. Выложил роли в репозитории. Ссылки:
+8. Выложил роли в репозитории. Ссылки на репозитории ролей:
 
+https://github.com/DemoniumBlack/vector-role
 
+https://github.com/DemoniumBlack/lighthouse-role
 
 9. Изменил playbook на использование roles.
 
-10. Выложил playbook в репозиторий.
+10. Выложил playbook в репозиторий. Ссылка на playbook: https://github.com/DemoniumBlack/fedorchukds-devops-33-19/tree/main/playbook
 
 ---
